@@ -1,0 +1,6 @@
+site klasörünün içinde reposda direk visual studio projesini açabilirsiniz
+veya websites klasöründen proje dosyalarýna ulaþabilirsiniz
+
+sql klasöründe hem .bak hemde .sql dosyasý bulunuyor ikiside ayný database. Ýstediðinizi kurabilirsiniz.
+
+Visual studio içinde web config dosyasýnda sql baðlantýsýný düzeltmeyi unutmayýn!
